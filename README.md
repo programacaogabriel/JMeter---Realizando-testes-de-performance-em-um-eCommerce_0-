@@ -53,3 +53,5 @@ Linux : https://dlcdn.apache.org//jmeter/source/apache-jmeter-5.5_src.tgz
 Site com todas as versoes para realizar o download: https://www.mozilla.org/en-US/firefox/all/#product-desktop-release
 
 3 - Configure o proxy com a base do JMeter, caso queira realizar testes: https://jmeter.apache.org/usermanual/jmeter_proxy_step_by_step.pdf 
+
+4 - Manual JMeter : https://jmeter.apache.org/usermanual/index.html
