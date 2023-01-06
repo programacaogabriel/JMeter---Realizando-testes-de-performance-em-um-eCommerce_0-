@@ -1,0 +1,20 @@
+Cenarios de testes
+Usuário navegador:
+Abrir home.
+Acessar categorias diferentes.
+Acessar produtos diferentes.
+
+Usuário buscador:
+Pesquisador:
+Abrir home.
+Realizar busca.
+Abrir produtos da busca.
+
+Usuário Comprador:
+Abrir produto.
+Adicionar na cesta.
+Realizar login.
+Confirmar endereço.
+Forma de entrega.
+Formas de pagamento.
+Abrir página do pedido.
